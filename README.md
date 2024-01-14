@@ -1,15 +1,16 @@
 <h1>PicPay Simplificado</h1>
 
 <p align="center">
-  <a href="#pre-requisites">Sobre o projeto</a> •
+  <a href="#about-project">Sobre o projeto</a> •
   <a href="#pre-requisites">Pré-requisitos</a> •
   <a href="#how-to-use">Instalando o projeto</a> •
   <a href="#related">Licença</a> •
+  <a href="#contact">Contato</a> •
 </p>
 
 <h2 id="about-project">☕ Sobre o projeto</h2> 
 
-Essa aplicação foi desenvolvida com a finalidade de resolver o [desafio técnico de backend do PicPay](https://github.com/PicPay/picpay-desafio-backend) com o objetivo de aprimorar e aplicar conhecimentos em Java.
+Essa aplicação foi desenvolvida com a finalidade de resolver o <a target="_blank">[desafio técnico de backend do PicPay](https://github.com/PicPay/picpay-desafio-backend)</a> com o objetivo de aprimorar e aplicar conhecimentos em Java.
 
 A aplicação oferece a capacidade de criar novos usuários com funções específicas, consultar a lista completa de usuários e realizar transações entre eles. Adicionalmente, foi incorporada a documentação utilizando o Swagger API.
 
@@ -45,9 +46,9 @@ E por fim, entre no arquivo da classe `PicpaysimplificadoApplication` para execu
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
 
-## 📱 Minhas Redes
+<h2 id="contact">📱 Contato</h2>
 
-Linkedin: [camboim-guilherme](https://www.linkedin.com/in/camboim-guilherme/) &nbsp;&middot;&nbsp; 
+Linkedin: <a target="_blank">[camboim-guilherme](https://www.linkedin.com/in/camboim-guilherme/)</a>
 
-Instagram: [@camboimgui](https://www.instagram.com/camboimgui/) &nbsp;&middot;&nbsp;
+Instagram: <a target="_blank">[@camboimgui](https://www.instagram.com/camboimgui/)</a>
 
